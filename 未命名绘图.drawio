@@ -1,66 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="jiAnBNiApPbtFjmuv4Zr">
-    <mxGraphModel dx="1410" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="99999" pageHeight="99999" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-5" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A8KL_PBNQ62v4zYtUTwg-1" target="A8KL_PBNQ62v4zYtUTwg-7">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-5" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A8KL_PBNQ62v4zYtUTwg-1" target="A8KL_PBNQ62v4zYtUTwg-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-1" value="用户/店员用券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-1" value="用户/店员用券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-4" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A8KL_PBNQ62v4zYtUTwg-2" target="A8KL_PBNQ62v4zYtUTwg-1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-4" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A8KL_PBNQ62v4zYtUTwg-2" target="A8KL_PBNQ62v4zYtUTwg-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="335" y="360" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A8KL_PBNQ62v4zYtUTwg-3" target="A8KL_PBNQ62v4zYtUTwg-12">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A8KL_PBNQ62v4zYtUTwg-3" target="A8KL_PBNQ62v4zYtUTwg-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-3" value="系统归还抖音券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-3" value="系统归还抖音券" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8KL_PBNQ62v4zYtUTwg-7">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="A8KL_PBNQ62v4zYtUTwg-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-9" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A8KL_PBNQ62v4zYtUTwg-8">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-9" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A8KL_PBNQ62v4zYtUTwg-8" vertex="1" connectable="0">
           <mxGeometry x="-0.0922" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-7" value="校验券库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-7" value="校验券库存" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-18" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8KL_PBNQ62v4zYtUTwg-10" target="A8KL_PBNQ62v4zYtUTwg-17">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-18" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A8KL_PBNQ62v4zYtUTwg-10" target="A8KL_PBNQ62v4zYtUTwg-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-10" value="计算并写入价格体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-10" value="计算并写入价格体系" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-14" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8KL_PBNQ62v4zYtUTwg-12" target="A8KL_PBNQ62v4zYtUTwg-13">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-14" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A8KL_PBNQ62v4zYtUTwg-12" target="A8KL_PBNQ62v4zYtUTwg-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-12" value="校验券库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-12" value="校验券库存" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-16" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8KL_PBNQ62v4zYtUTwg-13" target="A8KL_PBNQ62v4zYtUTwg-15">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-16" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A8KL_PBNQ62v4zYtUTwg-13" target="A8KL_PBNQ62v4zYtUTwg-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-13" value="归还抖音券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-13" value="归还抖音券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-15" value="让用户的该阿拉丁券失效/清空/库存为0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-15" value="让用户的该阿拉丁券失效/清空/库存为0" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8KL_PBNQ62v4zYtUTwg-17" value="绑定阿拉丁券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A8KL_PBNQ62v4zYtUTwg-17" value="绑定阿拉丁券" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
