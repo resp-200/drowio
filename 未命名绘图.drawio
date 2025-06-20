@@ -66,10 +66,10 @@
         <mxCell id="A8KL_PBNQ62v4zYtUTwg-17" value="绑定阿拉丁券" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X9RhGF0DU9HrY_DomZp9-26" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=0;html=1;" parent="1" vertex="1">
+        <mxCell id="X9RhGF0DU9HrY_DomZp9-26" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=0;html=1;fillColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="250" width="800" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="X9RhGF0DU9HrY_DomZp9-27" value="store_recycle" style="swimlane;startSize=60;html=1;" parent="X9RhGF0DU9HrY_DomZp9-26" vertex="1">
+        <mxCell id="X9RhGF0DU9HrY_DomZp9-27" value="store_recycle" style="swimlane;startSize=60;html=1;fillColor=#B9E0A5;" parent="X9RhGF0DU9HrY_DomZp9-26" vertex="1">
           <mxGeometry width="200" height="940" as="geometry" />
         </mxCell>
         <mxCell id="X9RhGF0DU9HrY_DomZp9-33" value="扫码" style="rounded=0;whiteSpace=wrap;html=1;" parent="X9RhGF0DU9HrY_DomZp9-27" vertex="1">
@@ -87,7 +87,7 @@
         <mxCell id="QLJ_ajnHZcb_13Equw2n-3" value="mq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X9RhGF0DU9HrY_DomZp9-27">
           <mxGeometry x="40" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X9RhGF0DU9HrY_DomZp9-28" value="bm_third_open_server" style="swimlane;startSize=60;html=1;" parent="X9RhGF0DU9HrY_DomZp9-26" vertex="1">
+        <mxCell id="X9RhGF0DU9HrY_DomZp9-28" value="bm_third_open_server" style="swimlane;startSize=60;html=1;fillColor=#FFE599;" parent="X9RhGF0DU9HrY_DomZp9-26" vertex="1">
           <mxGeometry x="200" width="200" height="940" as="geometry" />
         </mxCell>
         <mxCell id="X9RhGF0DU9HrY_DomZp9-36" value="核销逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="X9RhGF0DU9HrY_DomZp9-28" vertex="1">
@@ -102,7 +102,7 @@
         <mxCell id="QLJ_ajnHZcb_13Equw2n-5" value="核销&amp;amp;发券完成mq" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="X9RhGF0DU9HrY_DomZp9-28">
           <mxGeometry x="40" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X9RhGF0DU9HrY_DomZp9-29" value="aladdin" style="swimlane;startSize=60;html=1;" parent="X9RhGF0DU9HrY_DomZp9-26" vertex="1">
+        <mxCell id="X9RhGF0DU9HrY_DomZp9-29" value="aladdin" style="swimlane;startSize=60;html=1;fillColor=#7EA6E0;" parent="X9RhGF0DU9HrY_DomZp9-26" vertex="1">
           <mxGeometry x="400" width="200" height="940" as="geometry" />
         </mxCell>
         <mxCell id="X9RhGF0DU9HrY_DomZp9-47" value="发券" style="rounded=0;whiteSpace=wrap;html=1;" parent="X9RhGF0DU9HrY_DomZp9-29" vertex="1">
@@ -111,7 +111,7 @@
         <mxCell id="X9RhGF0DU9HrY_DomZp9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="X9RhGF0DU9HrY_DomZp9-26" source="X9RhGF0DU9HrY_DomZp9-33" target="X9RhGF0DU9HrY_DomZp9-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X9RhGF0DU9HrY_DomZp9-31" value="dy" style="swimlane;startSize=60;html=1;" parent="X9RhGF0DU9HrY_DomZp9-26" vertex="1">
+        <mxCell id="X9RhGF0DU9HrY_DomZp9-31" value="dy" style="swimlane;startSize=60;html=1;fillColor=#B5739D;" parent="X9RhGF0DU9HrY_DomZp9-26" vertex="1">
           <mxGeometry x="600" width="200" height="940" as="geometry" />
         </mxCell>
         <mxCell id="X9RhGF0DU9HrY_DomZp9-39" value="核销dy" style="rounded=0;whiteSpace=wrap;html=1;" parent="X9RhGF0DU9HrY_DomZp9-31" vertex="1">
